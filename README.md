@@ -11,7 +11,7 @@ Open Google Colab using this link: [Google Colab](https://colab.research.google.
 
 Step 2: Select the Repository
 In the Google Colab window, select "Github"
-Then paste the github link of the .ipnyb file
+Then paste the [github link](https://github.com/kight7/Torrent-Downloader.git)
 
 Step 3: Run the Notebook
 Run each block of code in the notebook one by one.
