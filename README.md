@@ -10,8 +10,8 @@ Step 1: Open Google Colab
 Open Google Colab using this link: [Google Colab](https://colab.research.google.com).
 
 Step 2: Select the Repository
-In the Google Colab window, select "Upload"
-Then uplaod the .ipnyb file to Google Colab
+In the Google Colab window, select "Github"
+Then paste the github link of the .ipnyb file
 
 Step 3: Run the Notebook
 Run each block of code in the notebook one by one.
